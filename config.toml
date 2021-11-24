@@ -1,7 +1,7 @@
 baseURL                       = "https://salmanblog.netlify.app/"
 languageCode                  = "id"
 title                         = "Wisnuwiry"
-theme                         = "personal-site"
+theme                         = "my-personal"
 summaryLength                 = 10
 
 [Author] # Used in authorbox
