@@ -1,3 +1,7 @@
 [submodule "themes/personal-site"]
 	path = themes/personal-site
 	url = https://github.com/wisnuwiry/personal-site
+[submodule "themes/my-personal"]
+	path = themes/my-personal
+	url = https://github.com/SlmnMEDIA/my-personal.git
+	branch = master
