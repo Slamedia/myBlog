@@ -5,7 +5,7 @@ theme                         = "my-personal"
 summaryLength                 = 10
 
 [Author] # Used in authorbox
-  name                        = "Wisnu G. Saputra"
+  name                        = "Salman Fauzi"
   bio                         = "Flutter | Mobile Tech Enthusiast | Software Engineer at KodingWorks. Saya juga suka blogging dan mempelajari hal teknologi baru."
   avatar                      = "img/avatar.webp"
   job                         = "Software Engineer"
