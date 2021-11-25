@@ -1,12 +1,12 @@
 baseURL                       = "https://salmanblog.netlify.app/"
 languageCode                  = "id"
-title                         = "Wisnuwiry"
+title                         = "CIRCLE ALIR"
 theme                         = "my-personal"
 summaryLength                 = 10
 
 [Author] # Used in authorbox
   name                        = "Salman Fauzi"
-  bio                         = "Flutter | Mobile Tech Enthusiast | Software Engineer at KodingWorks. Saya juga suka blogging dan mempelajari hal teknologi baru."
+  bio                         = "PEMUDA AMATIRAN"
   avatar                      = "img/avatar.webp"
   job                         = "Software Engineer"
   gender                      = "male"
